@@ -79,6 +79,9 @@ experiences:
         details: |
           Game developer on several hyper-casual games (infinite runners, micro-managers, 
           mergers, restoration, and customization) using Unity and C#, working with some of the most important publishers on the mobile market.
+           - 3D painting and character/environment customization on Film Makeup and Stain Hacker.
+           - 3D merging on Merge Commander Tanks and 2D merging on Merge Formula Racing.
+           - Machine learning applied to a self-driving car on Merge Formula Racing.
       - role: Game Developer
         time: Nov. 2018 - Apr. 2022
         company: DOT digital group, Florianópolis/SC
@@ -86,6 +89,10 @@ experiences:
           Developed applications, simulators, and mobile applications for marketing, 
           training, and assessment of employees, students, and customers. Planned and developed VR simulators, 
           including a nationally recognized agricultural machinery repair simulation, used for personnel training and education.
+           - Planned and developed VR simulators, including a nationally recognized agricultural machinery repair simulation, used for personnel training and education as well as a harvesting combine piloting simulator, with an accurate replica of a real machine's control panel and harvesting process, used for training new operators.
+           - Assisted the extension of features and contents of the company's existing AR application.
+           - Worked on numerous quiz-style games for mobile and web, such as a fully-offline mix of quizzes and activities for rural school children;
+           - Documented and applied a new build workflow for iOS, listing existing issues that were delaying and creating vulnerabilities on previously published apps
 
 projects:
     title: Projects
